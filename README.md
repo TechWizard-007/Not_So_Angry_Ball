@@ -34,7 +34,6 @@ Maybe I’ll forget I ever made this.
 Time will tell.
 
 > <video src="<video src="https://your-url-to-video.mp4" width="600" controls></video>
-" width="600" controls></video>
 
 
 ---
