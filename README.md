@@ -52,6 +52,9 @@ This was a fun way to understand:
 
 > 📱 [**Click here to download the Game...🔴**](https://drive.google.com/file/d/1tIJu-9ll9NUB5JSM1epQ5uFglbQ54IDf/view?usp=sharing)
 
+>![ErrorWaitGIF](https://github.com/user-attachments/assets/726d2361-e28c-453e-a379-6e4c2e13c6db)
+ 
+
 
 ---
 ### ✨ Bonus:
