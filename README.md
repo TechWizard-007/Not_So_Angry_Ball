@@ -47,10 +47,6 @@ This was a fun way to understand:
 * Slingshot mechanics
 * How not to break your scene by firing projectiles at light speed
 
-![FlowerSlingshotGIF](https://github.com/user-attachments/assets/98fd9f50-4216-4ed2-9d05-b790d646441c)
-
-
-
 ---
 
 ### 📲 DOWNLOAD GAME:
@@ -66,4 +62,4 @@ This was powered by gut feeling, coffee, and vibes.
 
 Enjoy thoda tod-phod! 🎶
 
-
+![FlowerSlingshotGIF](https://github.com/user-attachments/assets/98fd9f50-4216-4ed2-9d05-b790d646441c)
