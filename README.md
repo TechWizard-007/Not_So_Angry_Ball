@@ -18,7 +18,6 @@ That’s when I knew… it deserved a GitHub repo.
 * A slingshot. It slings. Hopefully.
 * A projectile. It flies like it’s got a job to do.
 * Blocks. They fall and pretend to be smart.
-* Reset button. For when things go... *not as planned*.
 * Touch controls. Because fingers > mouse.
 
 ### 📱 Built With:
