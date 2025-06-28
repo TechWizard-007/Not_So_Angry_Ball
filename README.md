@@ -33,7 +33,7 @@ Maybe I’ll forget I ever made this.
 Time will tell.
 
 
-><img src="https://github.com/user-attachments/assets/d967a3cf-120b-404f-b57d-64db912cba93" width="400" height="300"/>
+><img src="https://github.com/user-attachments/assets/d967a3cf-120b-404f-b57d-64db912cba93" width="500" height="300"/>
 
 
 ---
